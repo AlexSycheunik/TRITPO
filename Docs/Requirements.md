@@ -68,6 +68,4 @@ ___
 2. Последние версии вышеперечисленных бразуеров.
 
 ### 4. Аналоги <a name="4"></a>
-1. http://guitarland.by/
-2. http://musicmarket.by/
-3. http://crazysound.by/
+
